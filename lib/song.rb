@@ -1,5 +1,5 @@
 class Songs
   attr_accessor :title
 
-title = Song.new
+song = Song.new
 end
